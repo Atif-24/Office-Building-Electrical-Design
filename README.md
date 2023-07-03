@@ -1,5 +1,7 @@
 # Office Building Electrical Design Project
 
+![Project Logo](link_to_logo_image)
+
 ## Project Overview
 
 The "Office Building Electrical Design" project was a personal endeavor aimed at developing proficiency in AutoCAD and gaining practical knowledge about electrical design principles. The primary focus of the project was to create an efficient and sustainable lighting layout for an office building using Dialux Evo, a powerful lighting simulation software. Through this project, I sought to understand the intricacies of electrical design, learn to use industry-standard software, and apply sustainable practices in lighting systems.
@@ -19,6 +21,20 @@ The "Office Building Electrical Design" project was a personal endeavor aimed at
 6. **Hands-on Learning with Dialux Evo**: The project provided valuable hands-on experience with Dialux Evo, enabling me to simulate lighting scenarios and analyze the performance of different lighting setups.
 
 7. **Electrical Setup Integration**: After finalizing the lighting design in Dialux Evo, the project extended to AutoCAD, where I learned to integrate the lighting plan with the electrical setup. This included adding wiring, switches, sockets, and distribution panels.
+
+## Project Showcase
+
+### Finished Lighting Layout - Dialux
+
+![First Floor in Dialux](link_to_dialux_first_floor_image)
+
+![Second Floor in Dialux](link_to_dialux_second_floor_image)
+
+### AutoCAD Wiring - Electrical Setup
+
+![Finished Wiring - First Floor](link_to_autocad_first_floor_image)
+
+![Finished Wiring - Second Floor](link_to_autocad_second_floor_image)
 
 ## Challenges and Learnings
 
