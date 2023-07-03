@@ -2,13 +2,13 @@
 
 ## Project Overview
 
-The "Office Building Electrical Design" project was a personal endeavor aimed at developing proficiency in AutoCAD and gaining practical knowledge about electrical design principles. The primary focus of the project was to create an efficient and sustainable lighting layout for an office building using Dialux Evo, a powerful lighting simulation software. Through this project, I sought to understand the intricacies of electrical design, learn to use industry-standard software, and apply sustainable practices in lighting systems.
+The "Office Building Electrical Design" project was a personal endeavor aimed at developing proficiency in AutoCAD and gaining practical knowledge about electrical design principles. The main goal of the project was to create an efficient and sustainable lighting layout for an office building using Dialux Evo, a powerful lighting simulation software. Throughout this project, I sought to understand the intricacies of electrical design, learn to use industry-standard software, and apply sustainable practices in lighting systems.
 
 ## Key Objectives
 
-1. **AutoCAD Proficiency**: The project began with the import of an AutoCAD file into Dialux Evo, allowing me to understand the importance of accurate drawings and how they impact the lighting design process.
+1. **AutoCAD Proficiency**: The project began with the import of an AutoCAD file into Dialux Evo, which allowed me to understand the importance of accurate drawings and how they impact the lighting design process.
 
-2. **Electrical Design Principles**: By creating the lighting layout for the office building, I delved into electrical design concepts, such as lux levels, lighting uniformity, and choosing appropriate luminaires.
+2. **Electrical Design Principles**: Creating the lighting layout for the office building involved delving into electrical design concepts, such as lux levels, lighting uniformity, and choosing appropriate luminaires.
 
 3. **Energy-Efficient Lighting**: A significant objective was to focus on energy efficiency by selecting LED luminaires over traditional fluorescent lamps, contributing to sustainable lighting practices.
 
@@ -19,6 +19,10 @@ The "Office Building Electrical Design" project was a personal endeavor aimed at
 6. **Hands-on Learning with Dialux Evo**: The project provided valuable hands-on experience with Dialux Evo, enabling me to simulate lighting scenarios and analyze the performance of different lighting setups.
 
 7. **Electrical Setup Integration**: After finalizing the lighting design in Dialux Evo, the project extended to AutoCAD, where I learned to integrate the lighting plan with the electrical setup. This included adding wiring, switches, sockets, and distribution panels.
+
+## Course Influence
+
+During the course of this project, I received valuable guidance and insights from the online course "Ultimate Electrical Design Course from Zero to Hero" by Ahmed Mahdy from Khadija Academy, available on Udemy. This comprehensive course covered essential aspects of electrical design, AutoCAD techniques, and effective utilization of Dialux Evo for lighting simulations. The knowledge gained from the course significantly contributed to shaping the approach and outcomes of the "Office Building Electrical Design" project.
 
 ## Project Showcase
 
@@ -44,4 +48,6 @@ The "Office Building Electrical Design" project was a personal endeavor aimed at
 
 ## Conclusion
 
-The "Office Building Electrical Design" project provided me with an invaluable learning experience, allowing me to develop proficiency in AutoCAD, gain practical knowledge of electrical design principles, and apply lighting simulation using Dialux Evo. It was a journey of exploration into various aspects of electrical design to create a well-rounded lighting layout for office spaces. As a solo project, it challenged me to take on various tasks independently and fostered humility in acknowledging that there is always more to learn and improve upon in the field of electrical design.
+The "Office Building Electrical Design" project provided me with an invaluable learning experience, allowing me to develop proficiency in AutoCAD, gain practical knowledge of electrical design principles, and apply lighting simulation using Dialux Evo. It was a journey of exploration into various aspects of electrical design to create a well-rounded lighting layout for office spaces. As a solo project with the guidance of the "Ultimate Electrical Design Course from Zero to Hero," it challenged me to take on various tasks
+
+ independently and fueled my passion for continuous learning and improvement in the field of electrical design.
