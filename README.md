@@ -1,5 +1,3 @@
-# Office-Building-Electrical-Design
-
 # Office Building Electrical Design Project
 
 ![Project Logo](link_to_logo_image)
