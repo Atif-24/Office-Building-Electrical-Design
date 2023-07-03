@@ -28,15 +28,15 @@ During the course of this project, I received valuable guidance and insights fro
 
 ### Finished Lighting Layout - Dialux
 
-![First Floor in Dialux](https://github.com/Atif-24/Office-Building-Electrical-Design/blob/f1dd8269f4808b98b47bf9926110f717c0c48b5c/Office%20Building%20Electrical%20Design/AutoCAD%20First%20Floor.png)
+![First Floor in Dialux](https://github.com/Atif-24/Office-Building-Electrical-Design/blob/f1dd8269f4808b98b47bf9926110f717c0c48b5c/Office%20Building%20Electrical%20Design/Dialux%20First%20Floor.png)
 
-![Second Floor in Dialux](link_to_dialux_second_floor_image)
+![Second Floor in Dialux](https://github.com/Atif-24/Office-Building-Electrical-Design/blob/f1dd8269f4808b98b47bf9926110f717c0c48b5c/Office%20Building%20Electrical%20Design/Dialux%20Second%20Floor.png)
 
 ### AutoCAD Wiring - Electrical Setup
 
-![Finished Wiring - First Floor](link_to_autocad_first_floor_image)
+![Finished Wiring - First Floor](https://github.com/Atif-24/Office-Building-Electrical-Design/blob/f1dd8269f4808b98b47bf9926110f717c0c48b5c/Office%20Building%20Electrical%20Design/AutoCAD%20First%20Floor.png)
 
-![Finished Wiring - Second Floor](link_to_autocad_second_floor_image)
+![Finished Wiring - Second Floor](https://github.com/Atif-24/Office-Building-Electrical-Design/blob/f1dd8269f4808b98b47bf9926110f717c0c48b5c/Office%20Building%20Electrical%20Design/AutoCAD%20Second%20Floor.png)
 
 ## Challenges and Learnings
 
