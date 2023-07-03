@@ -28,7 +28,7 @@ During the course of this project, I received valuable guidance and insights fro
 
 ### Finished Lighting Layout - Dialux
 
-![First Floor in Dialux](link_to_dialux_first_floor_image)
+![First Floor in Dialux](https://github.com/Atif-24/Office-Building-Electrical-Design/blob/f1dd8269f4808b98b47bf9926110f717c0c48b5c/Office%20Building%20Electrical%20Design/AutoCAD%20First%20Floor.png)
 
 ![Second Floor in Dialux](link_to_dialux_second_floor_image)
 
